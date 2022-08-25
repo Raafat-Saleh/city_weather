@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/city_weather/static/css/main.91aaaa3e.css",
+    "main.js": "/city_weather/static/js/main.305649cc.js",
+    "static/media/fa-solid-900.ttf": "/city_weather/static/media/fa-solid-900.6aef0a3f12850e081374.ttf",
+    "static/media/fa-brands-400.ttf": "/city_weather/static/media/fa-brands-400.8dddb1b4cd1f65b03167.ttf",
+    "static/media/fa-solid-900.woff2": "/city_weather/static/media/fa-solid-900.1089d04e572b44b3d54a.woff2",
+    "static/media/fa-brands-400.woff2": "/city_weather/static/media/fa-brands-400.a4ac62083ead21bd1ea2.woff2",
+    "static/media/fa-regular-400.ttf": "/city_weather/static/media/fa-regular-400.e2e080ba746195932d7f.ttf",
+    "static/media/fa-regular-400.woff2": "/city_weather/static/media/fa-regular-400.d9ed9b6f8138a03cd29d.woff2",
+    "static/media/fa-v4compatibility.ttf": "/city_weather/static/media/fa-v4compatibility.83a9e0357eddeb41b08b.ttf",
+    "static/media/fa-v4compatibility.woff2": "/city_weather/static/media/fa-v4compatibility.2e77423e3ed431908eda.woff2",
+    "index.html": "/city_weather/index.html",
+    "main.91aaaa3e.css.map": "/city_weather/static/css/main.91aaaa3e.css.map",
+    "main.305649cc.js.map": "/city_weather/static/js/main.305649cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91aaaa3e.css",
+    "static/js/main.305649cc.js"
+  ]
+}
